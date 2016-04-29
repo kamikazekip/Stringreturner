@@ -1,1 +1,1 @@
-include ':app'
+include ':stringreturner-lib'
