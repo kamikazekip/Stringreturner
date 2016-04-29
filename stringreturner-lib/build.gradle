@@ -13,7 +13,7 @@ ext {
     siteUrl = 'https://github.com/kamikazekip/Stringreturner'
     gitUrl = 'https://github.com/kamikazekip/Stringreturner.git'
 
-    libraryVersion = '0.1'
+    libraryVersion = '0.2'
 
     developerId = 'erik'
     developerName = 'Erik Brandsma'
@@ -32,7 +32,7 @@ android {
         minSdkVersion 7
         targetSdkVersion 23
         versionCode 1
-        versionName "0.1"
+        versionName "0.2"
     }
     buildTypes {
         release {
